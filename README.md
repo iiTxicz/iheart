@@ -1,3 +1,6 @@
+# Work In Progress
+### Revising Data to work with updated APIs and to include direct sourcing for other features
+
 # iheart
 ### iHeart Radio JavaScript API
 
@@ -13,7 +16,7 @@ Install with `npm`:
 ``` bash
 $ npm install --save iheart
 ```
-
+ - node module is not related to this repo
 
 ## Example
 
